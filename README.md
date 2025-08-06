@@ -16,5 +16,7 @@
 
 ## Q5: use the above concepts to complete the below task
 <img width="626" height="435" alt="image" src="https://github.com/user-attachments/assets/e87d7a83-4dce-4098-ac41-d18967a84ec5" />
+
+
 ## python-task output
 <img width="515" height="211" alt="image" src="https://github.com/user-attachments/assets/9dcff902-f166-4061-879b-4bc194b0e8f3" />
